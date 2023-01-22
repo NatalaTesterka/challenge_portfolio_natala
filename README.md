@@ -33,11 +33,11 @@ Wierzę, że będzie to kolejne cenne doświadczenie, które pomoże mi ugruntow
  
 <b>Subtask 1</b>
 
-[Link text Here](https://link-url-here.org)
+[Subtask 1 Link](https://docs.google.com/spreadsheets/d/1Uh36d7OYkxVaX_oRBU6ojpF3_zu3jcLSJGwD2lUN9yE/edit?usp=share_link)
 
 <b>Subtask 2</b>
 
-[Link text Here](https://docs.google.com/spreadsheets/d/1fVQSW7z6ZJykksm0TO7uvbKlcdgP0Sp78PYTUu_EDeo/edit?usp=share_link)
+[Subtask 2 Link](https://docs.google.com/spreadsheets/d/1fVQSW7z6ZJykksm0TO7uvbKlcdgP0Sp78PYTUu_EDeo/edit?usp=share_link)
 
 <b>Subtask 3</b> 
 
