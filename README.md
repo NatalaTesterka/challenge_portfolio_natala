@@ -28,3 +28,18 @@ Wierzę, że będzie to kolejne cenne doświadczenie, które pomoże mi ugruntow
   - strona nie dostosowuje się do ekranu, trzeba przewijać horyzontalnie, by obejrzeć ją całą,
   - brak możliwości dodania meczu,
   - lista graczy przestaje się ładować po przewinięciu do "x" strony.
+  
+ ## Task 2
+ 
+<b>Subtask 1</b>
+
+[Link text Here](https://link-url-here.org)
+
+<b>Subtask 2</b>
+
+[Link text Here](https://docs.google.com/spreadsheets/d/1fVQSW7z6ZJykksm0TO7uvbKlcdgP0Sp78PYTUu_EDeo/edit?usp=share_link)
+
+<b>Subtask 3</b> 
+
+Why do we write test cases?
+The main purpose of test cases is to establish if each of the system features are perfoming as expected and to confirm that the system satisfies all standards, guidelines and customer requirements. Also test cases help to reveal system's errors and defects.
