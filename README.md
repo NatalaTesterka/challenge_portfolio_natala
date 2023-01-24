@@ -43,3 +43,7 @@ Wierzę, że będzie to kolejne cenne doświadczenie, które pomoże mi ugruntow
 
 Why do we write test cases?
 The main purpose of test cases is to establish if each of the system features are perfoming as expected and to confirm that the system satisfies all standards, guidelines and customer requirements. Also test cases help to reveal system's errors and defects.
+
+<b>Subtask 4</b>
+
+[Subtask 4 Link](https://docs.google.com/spreadsheets/d/1myOAMSW3ZbjTAWz4JoB0ufw9QtNTAE2u9wlECUHCj0s/edit?usp=share_link)
