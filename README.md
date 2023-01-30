@@ -47,3 +47,13 @@ The main purpose of test cases is to establish if each of the system features ar
 <b>Subtask 4</b>
 
 [Subtask 4 Link](https://docs.google.com/spreadsheets/d/1myOAMSW3ZbjTAWz4JoB0ufw9QtNTAE2u9wlECUHCj0s/edit?usp=share_link)
+
+ ## Task 3
+ 
+ <b>Subtask 1</b>
+
+[Subtask 1 Link](https://docs.google.com/spreadsheets/d/16rFKm11TMru0qEsAXb90m7ihCtoCnyN1XqCw5GTKduI/edit?usp=share_link)
+
+<b>Subtask 3</b>
+
+[Subtask 3 Link](https://docs.google.com/document/d/1jU-V4FazcQ49dVep_1aEwoMzCC_lTZCZjfG2L-Yd1-A/edit?usp=share_link)
