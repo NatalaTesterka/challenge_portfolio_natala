@@ -57,3 +57,25 @@ The main purpose of test cases is to establish if each of the system features ar
 <b>Subtask 3</b>
 
 [Subtask 3 Link](https://docs.google.com/document/d/1jU-V4FazcQ49dVep_1aEwoMzCC_lTZCZjfG2L-Yd1-A/edit?usp=share_link)
+
+## Task 4
+
+<b>Subtask 1 and 2</b>
+
+[Subtask 1 and 2 Link](https://docs.google.com/spreadsheets/d/1mUZGDmRtJyZ8oBft5-JjRxOGlewUZDu2w4ygeB3TIAc/edit?usp=share_link)
+
+<b>Subtask 3</b>
+
+1. The OLX application is used to post all kinds of ads, view them, buy, sell. The purpose of the application is to enable the association of two sides of the service
+
+2. The end user of OLX app is every person who is interested in buying or selling things or services.
+
+3. In my opinion, the OLX app is user friendly. The application is fast, does not jam during operation, refreshes easily.
+Adding ads is intuitive and fast. The menu is clear and contains all the necessary functions.
+The interface is interesting and interactive.
+
+4. I would improve adding items or services to the category to avoid mismatches.
+
+
+5. The biggest difference between testing web app and mobile is of course screen size – mobile deivce size is smaller than a desktop. Another difference is less memory of mobile devices, network connections and tools used for mobile and web app testing – they might not work simultaneously on both.
+
