@@ -76,6 +76,8 @@ The interface is interesting and interactive.
 
 4. I would improve adding items or services to the category to avoid mismatches.
 
-
 5. The biggest difference between testing web app and mobile is of course screen size – mobile deivce size is smaller than a desktop. Another difference is less memory of mobile devices, network connections and tools used for mobile and web app testing – they might not work simultaneously on both.
 
+<b>Subtask 4</b>
+
+[Jira Project Link](https://nslomian.atlassian.net/jira/software/projects/CPP1/boards/2)
