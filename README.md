@@ -89,6 +89,17 @@ The interface is interesting and interactive.
 <b>Subtask 1</b>
 
 Zapytania SQL, których się nauczyłam:
-*SELECT *FROM *ORDER BY *WHERE *LIKE *AND *OR *JOIN 
-*GETDATE *UPPER *LOWER *DATE DIFF *GROUP BY
+*SELECT 
+*FROM 
+*ORDER BY 
+*WHERE 
+*LIKE 
+*AND 
+*OR 
+*JOIN 
+*GETDATE 
+*UPPER 
+*LOWER 
+*DATE DIFF 
+*GROUP BY
 *COUNT *SUM *MIN
