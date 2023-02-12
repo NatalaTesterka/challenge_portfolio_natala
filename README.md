@@ -83,3 +83,12 @@ The interface is interesting and interactive.
 [Jira Project Link](https://nslomian.atlassian.net/jira/software/projects/CPP1/boards/2) 🙂 🙂 🙂
 
 [Jira Project Link to Google](https://drive.google.com/drive/folders/1VA_XQp--Xz-SCcbr4p1xf_F5vjukhDN8?usp=share_link) 
+
+## Task 5
+
+<b>Subtask 1</b>
+
+Zapytania SQL, których się nauczyłam:
+*SELECT *FROM *ORDER BY *WHERE *LIKE *AND *OR *JOIN 
+*GETDATE *UPPER *LOWER *DATE DIFF *GROUP BY
+*COUNT *SUM *MIN
