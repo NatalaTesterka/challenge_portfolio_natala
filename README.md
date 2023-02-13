@@ -88,7 +88,8 @@ The interface is interesting and interactive.
 
 <b>Subtask 1</b>
 
-SQL queries I have learned:
+Zapytania SQL, których się nauczyłam:
+
 *SELECT 
 
 *FROM 
@@ -120,3 +121,12 @@ SQL queries I have learned:
 *SUM 
 
 *MIN
+
+<b>Subtask 3</b>
+
+<b> 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.</b>
+SELECT surname
+FROM actors	
+ORDER BY surname ASC
+
+
