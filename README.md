@@ -92,15 +92,31 @@ SQL queries I have learned:
 *SELECT 
 
 *FROM 
+
 *ORDER BY 
+
 *WHERE 
+
 *LIKE 
+
 *AND 
+
 *OR 
+
 *JOIN 
+
 *GETDATE 
+
 *UPPER 
+
 *LOWER 
+
 *DATE DIFF 
+
 *GROUP BY
-*COUNT *SUM *MIN
+
+*COUNT
+
+*SUM 
+
+*MIN
