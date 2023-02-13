@@ -88,8 +88,9 @@ The interface is interesting and interactive.
 
 <b>Subtask 1</b>
 
-Zapytania SQL, których się nauczyłam:
+SQL queries I have learned:
 *SELECT 
+
 *FROM 
 *ORDER BY 
 *WHERE 
