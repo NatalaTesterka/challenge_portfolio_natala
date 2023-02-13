@@ -125,8 +125,8 @@ Zapytania SQL, których się nauczyłam:
 <b>Subtask 3</b>
 
 <b> 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.</b>
-SELECT surname
-FROM actors	
-ORDER BY surname ASC
 
+SELECT surname * FROM actors * ORDER BY surname ASC
+
+![image](https://user-images.githubusercontent.com/122452173/218526105-bf2ac7bc-7d7d-46ee-8f3e-7a11da9c2536.png)
 
