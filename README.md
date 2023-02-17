@@ -189,3 +189,6 @@ SELECT movie_id, title, year_of_production, price * FROM movies * WHERE price >9
 <b>Subtask 2</b>
 
 Wynik z http://getistqb.com/quiz-ecru/ <b>12/15</b>
+
+<img width="458" alt="image" src="https://user-images.githubusercontent.com/122452173/219617539-042020d4-87cd-4f80-a96a-45d1d79b149a.png">
+
