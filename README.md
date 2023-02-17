@@ -184,5 +184,8 @@ SELECT movie_id, title, year_of_production, price * FROM movies * WHERE price >9
 
 ![image](https://user-images.githubusercontent.com/122452173/218529013-877f90a3-dee1-4eaf-af3e-4469141175f4.png)
 
+## Task 6
 
+<b>Subtask 2</b>
 
+Wynik z http://getistqb.com/quiz-ecru/ <b>12/15</b>
