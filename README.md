@@ -186,13 +186,7 @@ SELECT movie_id, title, year_of_production, price * FROM movies * WHERE price >9
 
 ## Task 6
 
-<b>Subtask 2</b>
-
-Wynik z http://getistqb.com/quiz-ecru/ <b>12/15</b>
-
-<img width="458" alt="image" src="https://user-images.githubusercontent.com/122452173/219617539-042020d4-87cd-4f80-a96a-45d1d79b149a.png">
-
-<b>Subtask 3</b>
+<b>Subtask 1</b>
 
 <b> 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈</b>
 
@@ -288,8 +282,12 @@ WHERE actors.actor_id = 4;
 INSERT INTO customers (customer_id, name, surname, email, pseudonym) 
 VALUES ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
  
+<b>Subtask 2</b>
 
+Wynik z http://getistqb.com/quiz-ecru/ <b>12/15</b>
 
+<img width="458" alt="image" src="https://user-images.githubusercontent.com/122452173/219617539-042020d4-87cd-4f80-a96a-45d1d79b149a.png">
 
+<b>Subtask 3</b>
 
 
